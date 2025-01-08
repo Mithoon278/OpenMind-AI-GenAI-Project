@@ -28,7 +28,7 @@ The chatbot:
    - Store embeddings in Pinecone for fast and scalable retrieval.
 5. **Retrieval-Augmented Generation**:
    - Retrieve context based on user queries.
-   - Use LLaMA 3.2 for generating responses augmented with retrieved context.
+   - Use LLaMA 3.3 for generating responses augmented with retrieved context.
 
 ---
 
